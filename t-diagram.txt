@@ -1,0 +1,35 @@
+create a T-diagram
+
+------------- | -------------
+   Input      |    Output
+------------- | -------------
+     x        |     2
+      arr    |    [42,512,243,512,243,512]  
+      8       |      8
+      7       |      7
+      6       |      6
+      5       |      5
+      4       |      4
+      3       |      3
+      2       | ignition!
+      1       | liftoff!
+
+MovieList = [
+   {
+      genre: Action,
+      title: Thor,
+      asjdna: 19u829
+   },
+   {
+      genre: Action,
+      title: shrell,
+      asjdna: 19u829
+   },
+   {
+      genre: Action,
+      title: nemo,
+      asjdna: 19u829
+   },
+   ...
+
+]
