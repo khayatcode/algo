@@ -11,7 +11,7 @@ console.log(pushFront([9,6,2], 7))
 
 // 2) Pop Front3
 function popFront(array){
-    newArray = []
+    var newArray = []
     for(var i=1; i<array.length; i++){
         newArray.push(array[i])
     }
