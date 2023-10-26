@@ -12,3 +12,4 @@ function twoSum(nums, target){
     }
     return "No Two sum found"
 };
+
